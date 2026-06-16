@@ -4,11 +4,11 @@ A production-quality, placement-ready AI-powered resume analyzer that provides r
 
 ## Live Demo
 
-//ai-resume-analyzer-orpin-psi.vercel.app/
+[Open Live Demo](https://ai-resume-analyzer-orpin-psi.vercel.app/)
 
 ## GitHub Repository
 
-//github.com/irrshad7-droid/ai-resume-analyzer
+[View Repository](https://github.com/irrshad7-droid/ai-resume-analyzer)
 
 ## Screenshots
 
