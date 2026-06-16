@@ -2,11 +2,11 @@
 
 A production-quality, placement-ready AI-powered resume analyzer that provides realistic scoring, detailed feedback, and actionable improvement plans.
 
-# Live Demo
+## Live Demo
 
 //ai-resume-analyzer-orpin-psi.vercel.app/
 
-# GitHub Repository
+## GitHub Repository
 
 //github.com/irrshad7-droid/ai-resume-analyzer
 
